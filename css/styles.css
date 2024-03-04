@@ -1,0 +1,8 @@
+body {
+    display: grid;
+    grid-template-columns: repeat();
+}
+section {
+    display: flex;
+    flex-direction: column;
+}
